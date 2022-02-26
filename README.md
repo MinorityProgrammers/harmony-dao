@@ -125,3 +125,109 @@ Infrastructure
 *   Validator Setup
 *   On-Chain Oracles
 *   Web3 Wallets
+
+# Deliverables & Metrics
+
+_Within the first 3 months of receiving a Harmony DAO grant, the Minority Programmers will accomplish the following deliverables (Q1-Q2 2022)_
+
+NOW (Q1-Q2)
+-----------
+
+### Onboarding
+
+*   Onboard 300 Users to Harmony Wallets, working with [Metamask](https://metamask.io/) and other wallet providers to improve overall user experience
+*   Have 500+ Members Join Snapshot DAO [https://snapshot.org/#/minorityprogrammers.eth](https://snapshot.org/#/minorityprogrammers.eth) 
+*   Onboard existing dApps into Harmony ecosystem across the network
+*   Onboard Harmony DAO’s in to Ethereum Enterprise Alliance Education Working Group, developing Web3 onboarding industry standards
+*   Bring Minority Venture Capital to Layer 2 Solution (Polygon Mainnet)
+
+### dApp Building
+
+*   Build [Genadrop](https://genadrop.com/) on Harmony (no code generative art minter)
+*   Participate in 3 Hackathons (1 Hackathon Each Month) with the development team from minority Programmers
+*   Bring dResumes (decentralized Resumes to Harmony) - Minting Resumes as NFTs
+*   Redesign MPA dApp to dark theme
+*   Integrate dApp cross-chain (Polygon, Harmony, Casper, etc..)
+
+### Organizational
+
+*   Launching of HRC-20 Governance token on Harmony (w vesting) {Contracts Done}
+*   Configure Minority Programmers Snapshot with Harmony and then Harmony governance token when ready
+*   Begin to make efforts to get African developers into safer and stable work environments
+*   Submit 7 Proposals in the Web3 space
+
+### NFT Drops
+
+*   Launch Minority Drop [https://minoritynft.com/](https://minoritynft.com/) as initial liquidty event for Minority Programmers DAO
+*   Create H.E.R. x Minority NFT Drop and give to H.E..R. DAO to support the onboarding of women developers into space [https://www.minoritynft.com/her](https://www.minoritynft.com/her)
+*   Launch generative drop on Harmony
+
+### Social Media
+
+*   Grow discord to 5,000+ members [https://discord.gg/4vdtmQqz6d](https://discord.gg/4vdtmQqz6d) 
+*   Make 3 Media appearances mentioning the benefits of Harmony
+*   Host Weekly Twitter Spaces on [Minority Programmers Twitter](https://twitter.com/minorityprogram)
+*   Grow LinkedIn to 3,000+ Followers. Twitter to 2,000+ Followers,
+
+### Education
+
+*   Publish 3 Harmony focused articles
+*   Create a public repository for Harmony knowledge on [ClickUp](https://www.programmers.one/) and [Github](https://github.com/MinorityProgrammers/harmony-dao)
+*   Host 5 Harmony centric workshops
+*   Bring 10 Interns through internship programs from people in developing nations and teaming up with boot camps that tailor to veterans like LEARN Academy
+*   Vibrant #harmony channel on discord with continuous resources along with open harmony resources channel
+*   Strategic partnerships with 3 other organizations and Harmony backed DAOs like H.E.R. DAO to pilot a blockchain developer cohort program
+*   3 Video tutorials (and respective documentation) for onboarding into Harmony
+
+### Events
+
+*   Sponsor 20 Minority Programmers for Eth Conference (Ex; [EthRio](https://www.ethereum.rio/))
+*   Secure spot in Wynwood, Miami for Regular IRL Web3 Events
+*   Throw BTC 2022 Event in Miami
+*   Host IRL Minority Programmers Hacker House
+
+Q3
+--
+
+*   Get 1 million in volume through NFT sales through Genadrop
+*   Onboard 100 Artists into the NFT space using tools like Genadrop
+*   Post 3 Hackathon Bounties
+*   Build dApplance (learning app + talent sourcing) section of Minority Programmers Career development dApp
+*   Launch another IRL Hacker House (Minority Incubator) with Wellness first in mind
+*   Grow Minority Venture Capital to $250,000+ AUM
+*   Onboard 1,000 users onto Harmony wallets
+*   Build out a cohort of Harmony dApps from the Minority Programmers cohort
+*   Onboard 5 DAOs onto Harmony
+*   Grow membership on [Snapshot](https://snapshot.org/#/minorityprogrammers.eth) to be top 50 DAOs
+*   Start building DeFi yield tool
+*   Another 10 interns through internship program
+*   Fundraising dinner for Minority Think Tank
+*   Launch an anon legendary degen project
+*   Decentraland Plot 🌀 Minority World 🌎 a subsidized community in the metaverse for marginalized communities
+*   Bring job board live into dApp [https://minorityprogrammers.org/careers](https://minorityprogrammers.org/careers)
+*   Hiring first staff democratically through DAOs
+*   Onboard Harmony Educators into Ethereum Enterprise Alliance Educational Training Working Group to create industry-wide standards for Web3 onboarding
+
+Q4
+--
+
+*   Onboard 5,000 users onto Harmony wallets
+*   Onboard 10 DAOs onto Harmony
+*   20 interns through internship program
+*   MVP for DeFi yield tool
+*   Launch Web3Mafia, a coalition of "made" individuals in the industry
+*   Throw AR/VR Immersive Event in Miami
+*   Build Minority IDO Launchpad [https://minorityprogrammers.org/incubator](https://minorityprogrammers.org/incubator)
+*   Begin to build for Decentralized Consultancy
+
+_\*Q3-Q4 Under Developed In Detail due to changing conditions in the Web3 space, at this point functioning governance should be in place driving these decisions._
+
+Future Roadmap
+--------------
+
+_To be decided via governance process_
+
+*   Setup validator on [HarmonyStake.com](http://HarmonyStake.com)
+*   Setup Security DAO within MPA
+*   Launch Minority Incubator & Accelerator
+*   MPA Africa House
